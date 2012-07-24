@@ -18,4 +18,8 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'launchy', '~> 2.1.0'
 
   gem.add_development_dependency 'tapp', '~> 1.3.1'
+
+  gem.add_development_dependency 'g', '~> 1.6.0'
+
+  gem.add_development_dependency 'nokogiri', '~> 1.4.4'
 end
